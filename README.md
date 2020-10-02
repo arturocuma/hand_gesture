@@ -33,3 +33,6 @@ This module expects a target specified as a `PoseStamped` msg comming from the t
 ```
 hand_detection/target_camera
 ```
+
+## License
+Licensed under the [Apache-2.0 License](https://github.com/arturocuma/hand_gesture/blob/develop/LICENSE)
