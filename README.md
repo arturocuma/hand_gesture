@@ -1,4 +1,3 @@
-# hand_gesture
 Ros Module for a Target reaching behavior with the Pepper robot
 
 ## Installation
@@ -36,3 +35,4 @@ hand_detection/target_camera
 
 ## License
 Licensed under the [Apache-2.0 License](https://github.com/arturocuma/hand_gesture/blob/develop/LICENSE)
+
